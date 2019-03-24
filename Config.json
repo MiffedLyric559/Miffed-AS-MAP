@@ -1,11 +1,9 @@
 {
 	"Creators":
 	[
-	    "",
 		"MiffedLyric559 \"Miffed AS\" Miffed",
-		"Nelson SDG \"Smartly Dressed Games\" Nelson",
-		""
-		
+		"Nelson SDG \"Smartly Dressed Games\" Nelson"
+	],
 	"Item": 21026,
 	"Status": "NONE",
 	"Load_From_Resources": true,
