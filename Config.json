@@ -1,0 +1,18 @@
+{
+	"Creators":
+	[
+		"MiffedLyric559 \"Miffed AS\" Miffed",
+		"Nelson SDG \"Smartly Dressed Games\" Nelson"
+	],
+	"Item": 21026,
+	"Status": "NONE",
+	"Load_From_Resources": true,
+	"Use_Legacy_Clip_Borders": false,
+	"Allow_Underwater_Features": true,
+	"Use_Legacy_Water": false,
+	"Use_Legacy_Ground": false,
+	"Has_Discord_Rich_Presence": true,
+	"Category": "Official",
+	"Visible_In_Matchmaking": true,
+	"Should_Verify_Objects_Hash": true
+}
