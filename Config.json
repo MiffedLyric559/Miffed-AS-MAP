@@ -14,5 +14,4 @@
 	"Has_Discord_Rich_Presence": true,
 	"Category": "Official",
 	"Visible_In_Matchmaking": true,
-	"Should_Verify_Objects_Hash": true
 }
