@@ -11,7 +11,6 @@
 	"Allow_Underwater_Features": true,
 	"Use_Legacy_Water": false,
 	"Use_Legacy_Ground": false,
-	"Use_Legacy_Objects": false,
 	"Has_Discord_Rich_Presence": true,
 	"Category": "Official",
 	"Visible_In_Matchmaking": true,
