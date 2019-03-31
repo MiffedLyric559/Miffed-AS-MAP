@@ -115284,32 +115284,6 @@
 		}
 	}
 	{
-		"Type" "SDG.Framework.Landscapes.LandscapeHoleVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
-		"Instance_ID" "9"
-		"Item"
-		{
-			"Position"
-			{
-				"X" "-461.3806"
-				"Y" "38.30302"
-				"Z" "74.12352"
-			}
-			"Rotation"
-			{
-				"X" "0"
-				"Y" "0.4787447"
-				"Z" "0"
-				"W" "0.8779542"
-			}
-			"Scale"
-			{
-				"X" "49.81147"
-				"Y" "1"
-				"Z" "31.52839"
-			}
-		}
-	}
-	{
 		"Type" "SDG.Framework.Water.WaterVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
 		"Instance_ID" "11"
 		"Item"
@@ -115487,39 +115461,6 @@
 			"Is_Reflection_Visible" "false"
 			"Is_Sea_Level" "false"
 			"Water_Type" "SALTY"
-		}
-	}
-	{
-		"Type" "SDG.Framework.Devkit.DevkitHierarchyWorldObject, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
-		"Instance_ID" "22"
-		"Item"
-		{
-			"Position"
-			{
-				"X" "180.5467"
-				"Y" "55.7015"
-				"Z" "1034.433"
-			}
-			"Rotation"
-			{
-				"X" "0.5000002"
-				"Y" "0.5000002"
-				"Z" "0.4999996"
-				"W" "-0.4999999"
-			}
-			"Scale"
-			{
-				"X" "1"
-				"Y" "1"
-				"Z" "1"
-			}
-			"GUID" "9bd2e0ef06e54927ae2f39394a466b8e"
-			"Origin" "MANUAL"
-			"Custom_Material_Override"
-			{
-				"GUID" "00000000000000000000000000000000"
-			}
-			"Material_Index_Override" "-1"
 		}
 	}
 ]
