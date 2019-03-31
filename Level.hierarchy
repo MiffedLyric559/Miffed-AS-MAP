@@ -1,4 +1,4 @@
-"Available_Instance_ID" "9"
+"Available_Instance_ID" "24"
 "Items"
 [
 	{
@@ -115275,7 +115275,7 @@
 			{
 				"X" "2048"
 				"Y" "2048"
-				"Z" "2048"
+				"Z" "2047.609"
 			}
 			"Mode" "ADDITIVE"
 			"Instanced_Meshes" "true"
@@ -115284,15 +115284,71 @@
 		}
 	}
 	{
-		"Type" "SDG.Framework.Water.WaterVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
-		"Instance_ID" "6"
+		"Type" "SDG.Framework.Landscapes.LandscapeHoleVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "9"
 		"Item"
 		{
 			"Position"
 			{
+				"X" "-461.3806"
+				"Y" "38.30302"
+				"Z" "74.12352"
+			}
+			"Rotation"
+			{
 				"X" "0"
-				"Y" "0"
+				"Y" "0.4787447"
 				"Z" "0"
+				"W" "0.8779542"
+			}
+			"Scale"
+			{
+				"X" "49.81147"
+				"Y" "1"
+				"Z" "31.52839"
+			}
+		}
+	}
+	{
+		"Type" "SDG.Framework.Water.WaterVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "11"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "115.9145"
+				"Y" "0"
+				"Z" "-179.5549"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "-0.2279708"
+				"Z" "0"
+				"W" "0.973668"
+			}
+			"Scale"
+			{
+				"X" "987.4739"
+				"Y" "54.68658"
+				"Z" "511.7335"
+			}
+			"Is_Surface_Visible" "true"
+			"Is_Reflection_Visible" "false"
+			"Is_Sea_Level" "false"
+			"Water_Type" "SALTY"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Water.WaterVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "12"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-467.4956"
+				"Y" "0"
+				"Z" "-608.1338"
 			}
 			"Rotation"
 			{
@@ -115303,14 +115359,167 @@
 			}
 			"Scale"
 			{
-				"X" "2048"
+				"X" "462.2693"
 				"Y" "54.68658"
-				"Z" "2048"
+				"Z" "909.2892"
 			}
 			"Is_Surface_Visible" "true"
 			"Is_Reflection_Visible" "false"
 			"Is_Sea_Level" "false"
 			"Water_Type" "SALTY"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Water.WaterVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "13"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "985.2516"
+				"Y" "0"
+				"Z" "-250.5551"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "818.5273"
+				"Y" "54.68658"
+				"Z" "353.9259"
+			}
+			"Is_Surface_Visible" "true"
+			"Is_Reflection_Visible" "false"
+			"Is_Sea_Level" "false"
+			"Water_Type" "SALTY"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Water.WaterVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "14"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-600.9603"
+				"Y" "0"
+				"Z" "697.5339"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "313.6576"
+				"Y" "54.68658"
+				"Z" "276.5778"
+			}
+			"Is_Surface_Visible" "true"
+			"Is_Reflection_Visible" "false"
+			"Is_Sea_Level" "false"
+			"Water_Type" "CLEAN"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Water.WaterVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "17"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "156.5057"
+				"Y" "15.0692"
+				"Z" "1449.599"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "391.7754"
+				"Y" "54.68658"
+				"Z" "851.438"
+			}
+			"Is_Surface_Visible" "true"
+			"Is_Reflection_Visible" "false"
+			"Is_Sea_Level" "false"
+			"Water_Type" "SALTY"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Water.WaterVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "10"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "169.6016"
+				"Y" "0"
+				"Z" "598.7197"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "818.5273"
+				"Y" "54.68658"
+				"Z" "851.438"
+			}
+			"Is_Surface_Visible" "true"
+			"Is_Reflection_Visible" "false"
+			"Is_Sea_Level" "false"
+			"Water_Type" "SALTY"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.DevkitHierarchyWorldObject, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "22"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "180.5467"
+				"Y" "55.7015"
+				"Z" "1034.433"
+			}
+			"Rotation"
+			{
+				"X" "0.5000002"
+				"Y" "0.5000002"
+				"Z" "0.4999996"
+				"W" "-0.4999999"
+			}
+			"Scale"
+			{
+				"X" "1"
+				"Y" "1"
+				"Z" "1"
+			}
+			"GUID" "9bd2e0ef06e54927ae2f39394a466b8e"
+			"Origin" "MANUAL"
+			"Custom_Material_Override"
+			{
+				"GUID" "00000000000000000000000000000000"
+			}
+			"Material_Index_Override" "-1"
 		}
 	}
 ]
