@@ -1,4 +1,4 @@
-"Available_Instance_ID" "24"
+"Available_Instance_ID" "36"
 "Items"
 [
 	{
@@ -115368,39 +115368,9 @@
 				"Z" "353.9259"
 			}
 			"Is_Surface_Visible" "true"
-			"Is_Reflection_Visible" "false"
+			"Is_Reflection_Visible" "true"
 			"Is_Sea_Level" "false"
 			"Water_Type" "SALTY"
-		}
-	}
-	{
-		"Type" "SDG.Framework.Water.WaterVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
-		"Instance_ID" "14"
-		"Item"
-		{
-			"Position"
-			{
-				"X" "-600.9603"
-				"Y" "0"
-				"Z" "697.5339"
-			}
-			"Rotation"
-			{
-				"X" "0"
-				"Y" "0"
-				"Z" "0"
-				"W" "1"
-			}
-			"Scale"
-			{
-				"X" "313.6576"
-				"Y" "54.68658"
-				"Z" "276.5778"
-			}
-			"Is_Surface_Visible" "true"
-			"Is_Reflection_Visible" "false"
-			"Is_Sea_Level" "false"
-			"Water_Type" "CLEAN"
 		}
 	}
 	{
@@ -115461,6 +115431,171 @@
 			"Is_Reflection_Visible" "false"
 			"Is_Sea_Level" "false"
 			"Water_Type" "SALTY"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Foliage.FoliageVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "24"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "4096"
+				"Y" "2500"
+				"Z" "4096"
+			}
+			"Mode" "SUBTRACTIVE"
+			"Instanced_Meshes" "true"
+			"Resources" "true"
+			"Objects" "true"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.PlayerClipVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "27"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "4.522107E-12"
+				"Y" "0"
+				"Z" "-1029"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "-2.197331E-15"
+				"Z" "0"
+				"W" "1"
+			}
+			"Scale"
+			{
+				"X" "2109.699"
+				"Y" "2048"
+				"Z" "18.20947"
+			}
+			"Block_Player" "true"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.PlayerClipVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "32"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-0.0005739045"
+				"Y" "0"
+				"Z" "1025"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "1"
+				"Z" "0"
+				"W" "9.851233E-08"
+			}
+			"Scale"
+			{
+				"X" "2109.699"
+				"Y" "2048"
+				"Z" "18.20947"
+			}
+			"Block_Player" "true"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.PlayerClipVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "33"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "1027"
+				"Y" "0"
+				"Z" "-1.999913"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "-0.7071068"
+				"Z" "0"
+				"W" "0.7071067"
+			}
+			"Scale"
+			{
+				"X" "2109.699"
+				"Y" "2048"
+				"Z" "18.20947"
+			}
+			"Block_Player" "true"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.PlayerClipVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "34"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-1027"
+				"Y" "0"
+				"Z" "-1.999873"
+			}
+			"Rotation"
+			{
+				"X" "0"
+				"Y" "0.7071069"
+				"Z" "0"
+				"W" "0.7071066"
+			}
+			"Scale"
+			{
+				"X" "2109.699"
+				"Y" "2048"
+				"Z" "18.20947"
+			}
+			"Block_Player" "true"
+		}
+	}
+	{
+		"Type" "SDG.Framework.Devkit.PlayerClipVolume, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+		"Instance_ID" "35"
+		"Item"
+		{
+			"Position"
+			{
+				"X" "-0.0004779178"
+				"Y" "1018"
+				"Z" "-1.999635"
+			}
+			"Rotation"
+			{
+				"X" "0.5000001"
+				"Y" "-0.5000001"
+				"Z" "0.5000001"
+				"W" "0.4999999"
+			}
+			"Scale"
+			{
+				"X" "2109.699"
+				"Y" "2048"
+				"Z" "18.20947"
+			}
+			"Block_Player" "true"
 		}
 	}
 ]
