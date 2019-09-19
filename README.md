@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to Miffed-AS-MAP 👋</h1>
 <p>
-  <img alt="Version" src="https://img.shields.io/badge/version-0.2.6-blue.svg?cacheSeconds=2592000" />
+  <img alt="Version" src="https://img.shields.io/badge/version-0.3.1-blue.svg?cacheSeconds=2592000" />
   <img src="https://img.shields.io/badge/npm-%3E%3D5.5.0-blue.svg" />
   <img src="https://img.shields.io/badge/node-%3E%3D9.3.0-blue.svg" />
   <a href="https://miffed.xyz/unturned">
