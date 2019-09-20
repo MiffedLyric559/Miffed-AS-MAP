@@ -115339,7 +115339,7 @@
 			}
 			"Is_Surface_Visible" "true"
 			"Is_Reflection_Visible" "false"
-			"Is_Sea_Level" "false"
+			"Is_Sea_Level" "true"
 			"Water_Type" "SALTY"
 		}
 	}
@@ -115370,7 +115370,7 @@
 			"Is_Surface_Visible" "true"
 			"Is_Reflection_Visible" "false"
 			"Is_Sea_Level" "false"
-			"Water_Type" "SALTY"
+			"Water_Type" "CLEAN"
 		}
 	}
 	{
@@ -115399,7 +115399,7 @@
 			}
 			"Is_Surface_Visible" "true"
 			"Is_Reflection_Visible" "false"
-			"Is_Sea_Level" "false"
+			"Is_Sea_Level" "true"
 			"Water_Type" "SALTY"
 		}
 	}
